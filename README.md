@@ -7,4 +7,5 @@ Throughout the course, it tackles numerous topics such as the following:
 * Troubleshooting and Debugging Techniques
 * Configuration Management and the Cloud
 
-On top of these courses, it also includes a final course which is a capstone project, where all the concepts the have been taught from the previous courses will be put to solve real world tasks using Python to write scripts for automating the challenges itself. It will contain the scripts I wrote to solve these challenges itself.
+On top of these courses, it also includes a final course which is a capstone project, where all the concepts the have been taught from the previous courses will be put to solve real world tasks using Python to write scripts for automating the challenges itself.
+Specifically, this repository will contain the scripts I wrote to solve these challenges itself.
