@@ -19,7 +19,7 @@ def process(files):
 
 def upload_to_website(feedbacks):
     p = feedbacks
-    response = requests.post('http://34.122.6.192/feedback', data=p)
+    response = requests.post('http://' + ip_add + '/feedback', json=p)
     response.raise_for_status()
     print("Successfully processed the request!")
 
