@@ -1,4 +1,4 @@
-# Automating-Real-Word-Tasks-with-Python
+# Automating-Real-World-Tasks-with-Python
 This repository is about the final course in the program offered by Google. Entitled "Google IT Automation with Python".
 Throughout the course, it tackles numerous topics such as the following:
 * Crash Course on Python
